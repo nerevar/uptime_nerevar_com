@@ -22,9 +22,9 @@
     "url": "https://keen.nerevar.com/",
     "icon": "https://favicons.githubusercontent.com/keen.nerevar.com",
     "slug": "keen-nerevar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 1108,
     "timeMonth": 1027,
     "timeYear": 946,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   }
 ]
