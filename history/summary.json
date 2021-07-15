@@ -4,11 +4,11 @@
     "url": "https://nerevar.com/",
     "icon": "https://favicons.githubusercontent.com/nerevar.com",
     "slug": "nerevar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
     "timeDay": 1310,
@@ -16,7 +16,7 @@
     "timeMonth": 1010,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2021-07-15": 12
+      "2021-07-15": 1
     }
   },
   {
@@ -25,18 +25,17 @@
     "icon": "https://favicons.githubusercontent.com/keen.nerevar.com",
     "slug": "keen-nerevar-com",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "94.36%",
+    "uptimeYear": "99.14%",
     "time": 951,
     "timeDay": 1410,
     "timeWeek": 1050,
     "timeMonth": 1026,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2021-07-15": 10,
       "2021-07-08": 299,
       "2021-07-07": 391,
       "2021-07-06": 465,
