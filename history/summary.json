@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.02%",
     "time": 943,
-    "timeDay": 738,
-    "timeWeek": 728,
-    "timeMonth": 705,
+    "timeDay": 610,
+    "timeWeek": 678,
+    "timeMonth": 695,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2022-04-17": 937,
@@ -41,15 +41,15 @@
     "icon": "https://favicons.githubusercontent.com/keen.nerevar.com",
     "slug": "keen-nerevar-com",
     "status": "up",
-    "uptime": "98.35%",
+    "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.52%",
+    "uptimeYear": "97.57%",
     "time": 1094,
-    "timeDay": 948,
-    "timeWeek": 1069,
-    "timeMonth": 1058,
+    "timeDay": 1214,
+    "timeWeek": 1038,
+    "timeMonth": 1054,
     "timeYear": 1154,
     "dailyMinutesDown": {
       "2022-04-17": 937,
@@ -73,8 +73,7 @@
       "2021-07-07": 391,
       "2021-07-06": 465,
       "2021-07-05": 110,
-      "2021-07-04": 389,
-      "2021-07-03": 677
+      "2021-07-04": 389
     }
   }
 ]
