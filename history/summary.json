@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerevar.com.ico",
     "slug": "nerevar-com",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 789,
-    "timeDay": 999,
-    "timeWeek": 764,
+    "time": 790,
+    "timeDay": 648,
+    "timeWeek": 745,
     "timeMonth": 781,
-    "timeYear": 804,
+    "timeYear": 803,
     "dailyMinutesDown": {
-      "2023-01-25": 50,
-      "2022-09-28": 21
+      "2023-01-25": 50
     }
   },
   {
@@ -26,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/keen.nerevar.com.ico",
     "slug": "keen-nerevar-com",
     "status": "up",
-    "uptime": "94.44%",
+    "uptime": "94.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.22%",
     "time": 1150,
-    "timeDay": 1915,
-    "timeWeek": 1221,
-    "timeMonth": 1166,
+    "timeDay": 961,
+    "timeWeek": 1193,
+    "timeMonth": 1162,
     "timeYear": 1170,
     "dailyMinutesDown": {
       "2023-05-23": 18,
@@ -84,8 +83,7 @@
       "2023-01-28": 1440,
       "2023-01-27": 1440,
       "2023-01-26": 1440,
-      "2023-01-25": 931,
-      "2022-09-28": 21
+      "2023-01-25": 931
     }
   }
 ]
