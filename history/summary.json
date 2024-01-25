@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 800,
-    "timeDay": 593,
-    "timeWeek": 919,
-    "timeMonth": 786,
+    "timeDay": 833,
+    "timeWeek": 951,
+    "timeMonth": 779,
     "timeYear": 809,
-    "dailyMinutesDown": {
-      "2023-01-25": 50
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "keen.nerevar.com",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.22%",
     "time": 1155,
-    "timeDay": 945,
-    "timeWeek": 1278,
-    "timeMonth": 1084,
-    "timeYear": 1171,
+    "timeDay": 1364,
+    "timeWeek": 1357,
+    "timeMonth": 1090,
+    "timeYear": 1172,
     "dailyMinutesDown": {
       "2023-05-23": 18,
       "2023-03-12": 1401,
@@ -82,8 +80,7 @@
       "2023-01-29": 1440,
       "2023-01-28": 1440,
       "2023-01-27": 1440,
-      "2023-01-26": 1440,
-      "2023-01-25": 931
+      "2023-01-26": 1440
     }
   }
 ]
