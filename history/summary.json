@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 801,
-    "timeDay": 630,
-    "timeWeek": 821,
-    "timeMonth": 813,
-    "timeYear": 797,
+    "timeDay": 626,
+    "timeWeek": 800,
+    "timeMonth": 814,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/keen.nerevar.com.ico",
     "slug": "keen-nerevar-com",
     "status": "up",
-    "uptime": "95.09%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.70%",
+    "uptimeYear": "90.98%",
     "time": 1154,
-    "timeDay": 921,
-    "timeWeek": 1093,
+    "timeDay": 845,
+    "timeWeek": 1086,
     "timeMonth": 1121,
-    "timeYear": 1160,
+    "timeYear": 1159,
     "dailyMinutesDown": {
       "2023-05-23": 18,
       "2023-03-12": 1401,
@@ -66,8 +66,7 @@
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
-      "2023-02-09": 1440,
-      "2023-02-08": 1440
+      "2023-02-09": 1440
     }
   }
 ]
