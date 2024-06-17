@@ -4,10 +4,10 @@
     "url": "https://nerevar.com/",
     "icon": "https://icons.duckduckgo.com/ip3/nerevar.com.ico",
     "slug": "nerevar-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 802,
@@ -16,6 +16,7 @@
     "timeMonth": 801,
     "timeYear": 799,
     "dailyMinutesDown": {
+      "2024-06-17": 1,
       "2024-04-10": 152,
       "2024-04-09": 20
     }
@@ -27,9 +28,9 @@
     "slug": "keen-nerevar-com",
     "status": "down",
     "uptime": "95.59%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 1129,
     "timeDay": 2106,
@@ -37,7 +38,7 @@
     "timeMonth": 1080,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2024-06-17": 0,
+      "2024-06-17": 21,
       "2024-04-10": 229,
       "2024-04-09": 63
     }
