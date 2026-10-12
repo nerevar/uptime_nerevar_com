@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nerevar.com.ico",
     "slug": "nerevar-com",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "85.03%",
-    "uptimeWeek": "97.86%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.59%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.43%",
+    "uptimeMonth": "96.19%",
+    "uptimeYear": "99.68%",
     "time": 833,
     "timeDay": 0,
-    "timeWeek": 804,
+    "timeWeek": 782,
     "timeMonth": 768,
     "timeYear": 829,
     "dailyMinutesDown": {
-      "2026-10-11": 216
+      "2026-10-12": 314,
+      "2026-10-11": 1355
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/keen.nerevar.com.ico",
     "slug": "keen-nerevar-com",
     "status": "down",
-    "uptime": "97.34%",
-    "uptimeDay": "85.36%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.96%",
-    "time": 1119,
+    "uptime": "97.29%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "83.48%",
+    "uptimeMonth": "96.20%",
+    "uptimeYear": "99.68%",
+    "time": 1120,
     "timeDay": 0,
-    "timeWeek": 1069,
+    "timeWeek": 1073,
     "timeMonth": 1128,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2026-10-11": 211
+      "2026-10-12": 314,
+      "2026-10-11": 1351
     }
   }
 ]
